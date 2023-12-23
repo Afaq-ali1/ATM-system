@@ -21,8 +21,7 @@ displayed.
 withdrawal, insufficient balance, etc.
 • Button Disabling: Certain buttons should be disabled while a process is underway to prevent 
 accidental button presses.
-Requirements
-• The project must be implemented as a C# Windows Application.
-• No database or external files are needed as all data will be hardcoded.
-• Proper error checking and validation should be implemented.
-• The interface ia user-friendly and intuitive.
+Description:
+• The project is implemented as a C# Windows Application.
+• No database or external files are needed as all data is hardcoded.
+• The interface is user-friendly and intuitive.
