@@ -1,8 +1,6 @@
 ATM Interface –
-Objective
-The project contain a simple interface for an ATM (Automated Teller Machine) using 
-C# Windows Application.  
-Project Description
+The project contain a simple interface for an ATM (Automated Teller Machine) using C# Windows Application.  
+Project Description:
 ATM interface where a user can log in using a PIN. The system should 
 be pre-loaded with data for 5 users, including their PINs and account balances, which should be 
 hardcoded into the program.
@@ -21,7 +19,7 @@ displayed.
 withdrawal, insufficient balance, etc.
 • Button Disabling: Certain buttons should be disabled while a process is underway to prevent 
 accidental button presses.
-Description:
+Info:
 • The project is implemented as a C# Windows Application.
 • No database or external files are needed as all data is hardcoded.
 • The interface is user-friendly and intuitive.
