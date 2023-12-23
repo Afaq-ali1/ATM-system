@@ -1,0 +1,72 @@
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form4.resources
+C:\Users\Bakht Ali Khan\Desktop\Afaq Ali\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form4.resources
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Bakht Ali Khan\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form4.resources
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form5.resources
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Bakht Ali Khan\Desktop\Project\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
