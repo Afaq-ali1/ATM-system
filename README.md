@@ -3,7 +3,8 @@ The project contain a simple interface for an ATM (Automated Teller Machine) usi
 Project Description:
 ATM interface where a user can log in using a PIN. The system is pre-loaded with data for 5 users, including their PINs and account balances, which is 
 hardcoded into the program.
-Features:
+ 
+#Features:
 • User Login: The user should be able to log in using a PIN. If a user enters the wrong PIN three 
 times, the system is blocked, with a message “service is disabled, enter admin pin", and 
 special admin pin is required to unlock the system.
@@ -18,7 +19,8 @@ displayed.
 withdrawal, insufficient balance, etc.
 • Button Disabling: Certain buttons should be disabled while a process is underway to prevent 
 accidental button presses.
-Info:
+
+#Info:
 • The project is implemented as a C# Windows Application.
 • No database or external files are needed as all data is hardcoded.
 • The interface is user-friendly and intuitive.
