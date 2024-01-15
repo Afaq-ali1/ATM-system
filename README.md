@@ -1,1 +1,24 @@
-..
+## ATM Interface
+The project contain a simple interface for an ATM (Automated Teller Machine) using C# Windows Application.  
+Project Description:
+ATM interface where a user can log in using a PIN. The system is pre-loaded with data for 5 users, including their PINs and account balances, which is 
+hardcoded into the program.
+Features:
+• User Login: The user should be able to log in using a PIN. If a user enters the wrong PIN three 
+times, the system is blocked, with a message “service is disabled, enter admin pin", and 
+special admin pin is required to unlock the system.
+• Withdraw Cash: The user should be able to withdraw cash in two ways:
+o Quick Withdraw: Pre-defined buttons for quick withdrawal of set amounts.
+o Custom Withdraw: Input a specific amount for withdrawal.
+• Error Checking: The system should check if the withdrawal amount is available in the user’s 
+account. If the input amount is more than the available balance, an error message should be 
+displayed.
+• Numeric Input Validation: The system should validate that the user inputs only numeric values.
+• Pop-up Windows: Use pop-up windows to display messages to the user, such as successful 
+withdrawal, insufficient balance, etc.
+• Button Disabling: Certain buttons should be disabled while a process is underway to prevent 
+accidental button presses.
+Info:
+• The project is implemented as a C# Windows Application.
+• No database or external files are needed as all data is hardcoded.
+• The interface is user-friendly and intuitive.
